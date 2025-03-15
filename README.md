@@ -1,7 +1,8 @@
 # GameOfLife_BackOnTime
 
-João Armênio Silveira
-Fábio Naconeczny da Silva
+**João Armênio Silveira**
+
+**Fábio Naconeczny da Silva**
 
 Esse trabalho consiste na implementação de uma forma de retornar a um estado anterior do famoso "Conway's Game of Life". Seguem os detalhes da implementação.
 
