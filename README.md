@@ -1,7 +1,5 @@
 # GameOfLife_BackOnTime
 
----
-
 João Armênio Silveira
 Fábio Naconeczny da Silva
 
